@@ -1,0 +1,6 @@
+{"company":"Company","id":0,"amount":1000,"paid":false,"year":2016,"month":7,"day":18}
+{"company":"Company","id":2,"amount":1000,"paid":false,"year":2016,"month":7,"day":18}
+{"company":"Company","id":3,"amount":1000,"paid":false,"year":2016,"month":7,"day":18}
+{"company":"Company","id":4,"amount":1000,"paid":true,"year":2016,"month":7,"day":18}
+{"company":"Company","id":5,"amount":1000,"paid":false,"year":2016,"month":7,"day":18}
+{"company":"Company","amount":200000,"paid":false,"year":2016,"month":7,"day":18,"id":6}
